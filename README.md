@@ -1,4 +1,4 @@
-<h1>Olá 👋, Eu sou Mateus Bocker Preto</h1>
+<h1>Olá 👋, Eu sou Mateus Bocker</h1>
 
 Um **Analista de Dados** com mais de 2 anos de experiência em desenvolvimento de dashboards e soluções de BI. Com objetivo de transformar dados em informações estratégicas, utilizando ferramentas como **Power BI**, **SQL**, **Python**, e plataformas de nuvem como **Azure**.</p>
 
@@ -40,6 +40,7 @@ Um **Analista de Dados** com mais de 2 anos de experiência em desenvolvimento d
 
 <img align="center" src="https://github.com/user-attachments/assets/454a37ac-58fb-458e-8ec1-0b8c7bef1f40" alt="Email" height="20" width="20" /> Email: mat.bocker@gmail.com <br>
 <br><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="20" width="20" /> Linkedin: https://www.linkedin.com/in/mateus-bocker/
+<br><br>💬 Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de dados. Se você deseja colaborar ou discutir sobre, sinta-se à vontade para entrar em contato!
 
 ###
 
