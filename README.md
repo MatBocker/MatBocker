@@ -1,4 +1,4 @@
-<h1>Olá 👋, Eu sou Mateus Bocker</h1>
+<h1>Olá 👋, Eu sou Mateus</h1>
 
 Um **Analista de Dados** com mais de 2 anos de experiência em desenvolvimento de dashboards e soluções de BI. Com objetivo de transformar dados em informações estratégicas, utilizando ferramentas como **Power BI**, **SQL**, **Python**, e plataformas de nuvem como **Azure**.</p>
 
