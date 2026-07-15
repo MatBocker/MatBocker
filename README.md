@@ -1,8 +1,8 @@
 <h1>Olá 👋, eu sou o Mateus</h1>
 
-<p><strong>Desenvolvedor de Automação & AI Engineer</strong> focado em construir agentes de IA e automações que resolvem dor real de negócio. Integro LLMs (Claude, OpenAI, Gemini) com sistemas corporativos via n8n, Python e Node.js — entregando soluções escaláveis e com impacto mensurável.</p>
+<p><strong>Desenvolvedor de Automação & AI Engineer</strong> focado em construir agentes de IA e automações que resolvem dor real de negócio. Integro LLMs (Claude, OpenAI, Gemini) com sistemas corporativos via n8n, Python e Node.js. Entregando soluções escaláveis e com impacto mensurável.</p>
 
-<p>Background sólido em <strong>Engenharia de Dados e BI</strong> (Power BI, Azure, PL/SQL) me permite construir IA com fundamento técnico em dados — não experimentos isolados, mas soluções integradas e auditáveis.</p>
+<p>Background sólido em <strong>Engenharia de Dados e BI</strong> (Power BI, Azure, PL/SQL) me permite construir IA com fundamento técnico em dados e não experimentos isolados, mas soluções integradas e auditáveis.</p>
 
 ###
 
